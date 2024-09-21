@@ -1,15 +1,15 @@
-# About me
+# About me ☀️
 Highly motivated IT professional with a background in QA Test Analysis and a strong foundation in SQL. Recently graduated with a Master of IT in Business, looking to transition into a Data Science role. Seeking to leverage both technical and business acumen to optimize data processes and contribute to the efficiency of data-driven decision-making in a dynamic organization.
 ## TeePublic Customer Review Analysis: Topic Modeling and Sentiment Analysis
 This project focuses on analyzing over 250,000 customer reviews from TeePublic, a prominent e-commerce fashion platform. The goal is to extract valuable insights from the data to improve customer experience and inform business strategies.
 
-### Motivation
+### Motivation ☀️
 Understanding customer feedback is essential for optimizing user experience, identifying satisfaction drivers, and detecting market trends. This project aims to:
 
 Discover key topics in customer reviews.
 Explore topic variation across different regions.
 Build predictive models to classify future reviews by sentiment.
-### Objectives
+### Objectives 
 Topic Modeling: Uncover topics from customer feedback using LDA (Latent Dirichlet Allocation).
 Sentiment Analysis: Build a Naïve Bayes classifier to categorize reviews as positive, negative, or neutral.
 Regional Insights: Compare customer feedback topics by location.
